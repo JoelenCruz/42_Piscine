@@ -1,6 +1,6 @@
 # 42 Piscine Porto
 
-Compartilho os meus códigos em C da Piscine da escola de progração 42 Porto. 
+Compartilho os meus códigos em C da Piscine da escola de programação 42. 
 
 **Não Copie, Aprenda!!**
 
