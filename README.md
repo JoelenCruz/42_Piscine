@@ -8,15 +8,15 @@ Compartilho os meus códigos em C da Piscine da escola de programação 42.
 | ---------|------ | ------ |
 | Shell 00 |  100% | 14-7-22|
 | Shell 01 |  100% | 16-7-22|
-| C 00 |  100% | 20-7-22|
-| C 01 |  65% | 23-7-22|
-| C 02 |  100% | 24-7-22|
-| C 03 |  85% | 26-7-22|
-| C 04 |  80% | 28-7-22|
-| C 05 |  80% | 28-7-22|
-| C 06 |  100% | 02-8-22|
-| C 07 |  60% | 31-7-22|
-| Rush00 |  100% | 17-7-22|
+|[C 00](https://github.com/JoelenCruz/42_Piscine_Porto/tree/main/C00_joelen) |  100% | 20-7-22|
+|[C 01](https://github.com/JoelenCruz/42_Piscine_Porto/tree/main/C01_joelen) |  65% | 23-7-22|
+|[C 02](https://github.com/JoelenCruz/42_Piscine_Porto/tree/main/C02_joelen) |  100% | 24-7-22|
+|[C 03](https://github.com/JoelenCruz/42_Piscine_Porto/tree/main/C03_joelen)|  85% | 26-7-22|
+|[C 04](https://github.com/JoelenCruz/42_Piscine_Porto/tree/main/C04_joelen) |  80% | 28-7-22|
+|[C 05](https://github.com/JoelenCruz/42_Piscine_Porto/tree/main/C05_joelen) |  80% | 28-7-22|
+|[C 06](https://github.com/JoelenCruz/42_Piscine_Porto/tree/main/C06_joelen) |  100% | 02-8-22|
+|[C 07](https://github.com/JoelenCruz/42_Piscine_Porto/tree/main/C07_joelen) |  60% | 31-7-22|
+|[Rush00] (https://github.com/JoelenCruz/42_Piscine_Porto/tree/main/rush00) |  100% | 17-7-22|
 
 
 # Dicas Importantes!
