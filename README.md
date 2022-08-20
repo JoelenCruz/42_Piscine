@@ -1,6 +1,6 @@
 # 42 Piscine Porto
 
-Compartilharei minha jornada na Piscine da escola de progração @42Porto.
+Compartilho os meus códigos em C da Piscine da escola de progração 42 Porto. 
 
 | Projeto  |  Nota |  Data  |
 | ---------|------ | ------ |
