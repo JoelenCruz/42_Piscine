@@ -2,4 +2,7 @@
 
 Compartilharei minha jornada na Piscine da escola de progração @42Porto.
 
-| Projeto | Nota | Data | 
+| Primeiro cabeçalho  |  Segundo cabeçalho  |
+| ------------------- | ------------------- |
+|  Célula de conteúdo |  Célula de conteúdo |
+|  Célula de conteúdo |  Célula de conteúdo |
