@@ -1,4 +1,4 @@
-# 42 Piscine Porto
+# 42 Piscine
 
 Compartilho os meus códigos em C da Piscine da escola de programação 42. 
 
