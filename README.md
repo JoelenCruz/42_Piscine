@@ -1,1 +1,3 @@
-# 42_Piscine_Porto
+# 42 Piscine Porto
+
+Compartilharei minha jornada na Piscine da escola de progração @42Porto.
