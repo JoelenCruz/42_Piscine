@@ -2,7 +2,7 @@
 
 Compartilho os meus códigos em C da Piscine da escola de progração 42 Porto. 
 
-**Atenção:Não Copie, Aprenda!!**
+**Não Copie, Aprenda!!**
 
 | Projeto  |  Nota |  Data  |
 | ---------|------ | ------ |
