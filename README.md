@@ -24,9 +24,9 @@ Compartilho os meus códigos em C da Piscine da escola de programação 42.
 
 1) Não tenha medo de pedir ajuda, sempre existirá alguém disposto a ajudar.
 
-2) Seja consistente! Busque ficar o máximo de tempo possível na escola, isso torna o relacionamento com os colegas mais fluído, não seja aquele que só aparece nos exames de sexta e ninguém sabem o nome.
+2) Seja consistente! Busque ficar o máximo de tempo possível na escola, isso torna o relacionamento com os colegas mais fluído, não seja aquele que só aparece nos exames de sexta e ninguém sabe o nome.
 
-3) Não tente fazer a piscine trabalhando, esse dica é ouro!
+3) Não tente fazer a piscine trabalhando, esse dica vale ouro!
 
 4) Faça amigos e tenha um boa rede de suporte, não fique sozinho tentando resolver os problemas.
 
